@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #FFFFFF;
+    display:grid;
+    grid-template-areas:
+    "tyokalut tyokalut tyokalut"
+    "nav nav nav"
+    'header header header'
+    "status status status";
+
+}
+
+div.moi {
+    background: #FCCB00;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    align-items:center;
+}
+
+.logo {
+    width: 120px;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: #000;
+    text-decoration:solid;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #4e4b4a;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 20px;
+    padding: 20px;
+}
+
+section.info {
+  grid-area: header;
+  background: rgb(233, 187, 61);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  grid-column: auto;
+  width: auto;
+}
+
+nav{
+    grid-area: nav;
+    background: rgb(233, 187, 61);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  grid-column: auto;
+  width:100vh;
+}
+
+
+div.moi{
+    grid-area: tyokalut;
+    background: rgb(233, 187, 61);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width:100vh
+}
+
+img.logo {
+  width: 200px; 
+  height: 100px;
+}
+
+nav section {
+    background-color: #f7d54e;
+    border-radius: 10cm;
+}
+
+nav section:hover {
+    background-color: #f7d85b;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:right; 
+
+}
+
