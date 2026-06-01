@@ -110,3 +110,128 @@
 
 
 
+.hm1 {
+  background-image: url("kuvat/homer1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hm2 {
+  background-image: url("kuvat/homer2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hm3 {
+  background-image: url("kuvat/homer3.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.m1 {
+  background-image: url("kuvat/marge1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.m2 {
+  background-image: url("kuvat/marge2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.m3 {
+  background-image: url("kuvat/marge3.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.b1 {
+  background-image: url("kuvat/bart1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.b2 {
+  background-image: url("kuvat/bart2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.b3 {
+  background-image: url("kuvat/bart3.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}.l1 {
+  background-image: url("kuvat/lisa1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}.l2 {
+  background-image: url("kuvat/lisa2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}.l3 {
+  background-image: url("kuvat/lisa3.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.ma1 {
+  background-image: url("kuvat/maggie1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.ma2 {
+  background-image: url("kuvat/maggie2.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.ma3 {
+  background-image: url("kuvat/maggie3.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}.mr1 {
+  background-image: url("kuvat/mrb1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.mr2 {
+  background-image: url("kuvat/mrb2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.mr3 {
+  background-image: url("kuvat/mrb3.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}.a1 {
+  background-image: url("kuvat/apu1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}.a2 {
+  background-image: url("kuvat/apu2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}.a3 {
+  background-image: url("kuvat/apu3.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
